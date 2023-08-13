@@ -19,14 +19,14 @@ Use this to analyze trends in the House Price Index (HPI) data and build a predi
 ### Installation
 
 1. Clone repository:
-
 git clone https://github.com/Cnguyen000/GeorgiaHPI
+2.Navigate to project library:
 cd GeorgiaHPI
 
-2. Install required libraries:
+3. Install required libraries:
 pip install -r requirements.txt
 
-3. Set up Google Cloud credentials for BigQuery access.
+4. Set up Google Cloud credentials for BigQuery access.
 
 ## Usage
 
