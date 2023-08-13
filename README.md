@@ -19,7 +19,7 @@ Use this to analyze trends in the House Price Index (HPI) data and build a predi
 ### Installation
 
 1. Clone repository:
-git clone https://github.com/your-username/hpi-analysis-prediction.git
+git clone https://github.com/Cnguyen000/GeorgiaHPI
 cd hpi-analysis-prediction
 
 2. Install required libraries:
